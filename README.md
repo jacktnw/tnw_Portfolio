@@ -12,6 +12,12 @@ During the last 2 years, I have studied in the Faculty of Information Technology
 
 - Photoshop, Figma, Canva, Illustator (Basic), Microsoft365
 
+## soft skills
+Communication
+Teamwork
+Attention to Deyail
+Responesibility
+
 
 ## 📫 How to reach me 
 👉 [Facebook](https://www.facebook.com/tnw.jack/)<br>
