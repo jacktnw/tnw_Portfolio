@@ -2,6 +2,20 @@
 ## 👀 ABOUT ME
 During the last 2 years, I have studied in the Faculty of Information Technology. I've learned a lot about web building, and coding, and actually do it through projects each year. I'm not a very good coding person, but I put in the effort and determination every time I study with it. And besides studying, I also participated in many activities of the faculty. and the university which I am very happy to do.
 
+## skill & abilities
+HTML, CSS, JavaScript 
+JAVA, DTO pattern (Basic)
+MySQL, SQL Command (Basic)
+Database Design 
+Linux (Basic)
+GitHub, Git Command
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Photoshop
+Figma
+Canva
+Illustator (Basic)
+Microsoft365
+
 
 ## 📫 How to reach me 
 👉 [Facebook](https://www.facebook.com/tnw.jack/)<br>
