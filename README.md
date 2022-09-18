@@ -13,11 +13,15 @@ During the last 2 years, I have studied in the Faculty of Information Technology
 - Photoshop, Figma, Canva, Illustator (Basic), Microsoft365
 
 ## soft skills
-Communication
-Teamwork
-Attention to Deyail
-Responesibility
+Communication, Teamwork, Attention to Deyail, Responesibility
 
+## education
+- B.Sc.Information Technology | Aug 2020 - Present
+King Mongkut's University of Technology Thonburi
+
+
+- Gifted Science Math | May 2017 - May 2019
+Pathumwilai School
 
 ## 📫 How to reach me 
 👉 [Facebook](https://www.facebook.com/tnw.jack/)<br>
