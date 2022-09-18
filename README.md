@@ -9,7 +9,7 @@ MySQL, SQL Command (Basic)
 Database Design 
 Linux (Basic)
 GitHub, Git Command
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 Photoshop
 Figma
 Canva
