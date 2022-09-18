@@ -10,11 +10,7 @@ During the last 2 years, I have studied in the Faculty of Information Technology
 - Linux (Basic)
 - GitHub, Git Command
 
-- Photoshop
-- Figma
-- Canva
-- Illustator (Basic)
-- Microsoft365
+- Photoshop, Figma, Canva, Illustator (Basic), Microsoft365
 
 
 ## 📫 How to reach me 
