@@ -16,7 +16,7 @@ During the last 2 years, I have studied in the Faculty of Information Technology
 Communication, Teamwork, Attention to Deyail, Responesibility
 
 ## education
-> B.Sc.Information Technology | Aug 2020 - Present
+- B.Sc.Information Technology | Aug 2020 - Present
 King Mongkut's University of Technology Thonburi
 
 
