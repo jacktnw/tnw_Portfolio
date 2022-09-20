@@ -27,3 +27,5 @@ Pathumwilai School
 👉 [Instagram](https://www.instagram.com/jack.tnw/)<br>
 👉 [Page: ส่องโปร - SongPro](https://www.facebook.com/songpro.online) <br>
 
+<img src="Resume-JackThanawat">
+
