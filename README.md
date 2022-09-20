@@ -24,6 +24,6 @@ Pathumwilai School
 
 ## 📫 How to reach me 
 👉 [Facebook](https://www.facebook.com/tnw.jack/)<br>
-👉 [Instagram](https://www.instagram.com/jack.tnw/)<br><br>
+👉 [Instagram](https://www.instagram.com/jack.tnw/)<br>
 👉 [Page: ส่องโปร - SongPro](https://www.facebook.com/songpro.online) <br>
 
